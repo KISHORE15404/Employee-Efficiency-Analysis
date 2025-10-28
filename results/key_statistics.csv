@@ -1,0 +1,12 @@
+Metric,Value,Significance
+Total Employees,"1,009",Large sample size for robust analysis
+Departments,7,Diverse functional areas
+Locations,5,Geographic variation across India
+Work Modes,"3 (Office, Hybrid, Remote)",Covers all major work arrangements
+Overall Avg Productivity,2.92 / 10,Moderate productivity overall
+Overall Avg Wellbeing,0.57 / 1,Moderate wellbeing overall
+Highest Productivity (Office),4.32 / 10,"37% higher than hybrid, 74% higher than remote"
+Highest Wellbeing (Remote),0.62 / 1,"6% higher than office, 13% higher than hybrid"
+Correlation (Prod vs Well),0.069 (weak),Productivity ≠ Wellbeing
+Top Department (QA),3.35 / 10,Technical roles show higher productivity
+Support Impact on Wellbeing,+56% with strong support,Support systems are critical for wellbeing

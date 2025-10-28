@@ -1,0 +1,9 @@
+Visualization,Purpose,Key_Insight,Recommended_For_Dashboard
+1. Work Mode Distribution (Bar Chart),Show distribution of employees across work modes,"Hybrid: 46.1%, Office: 33.1%, Remote: 20.8%",Overview Tab
+2. Productivity by Work Mode (Box Plot),Compare productivity distributions and identify outliers,Office (4.32) > Hybrid (2.72) > Remote (1.14),Charts Tab
+3. Wellbeing by Work Mode (Box Plot),Compare wellbeing distributions across work modes,Remote (0.62) > Office (0.58) > Hybrid (0.54),Charts Tab
+4. Productivity vs Wellbeing Scatter Plot,Examine relationship between productivity and wellbeing,Weak correlation (0.069) - independent metrics,Correlations Tab
+5. Department Performance Heatmap,Identify top/bottom performing departments,"QA leads (3.35), Product Manager lowest (2.59)",Statistics Tab
+6. Support System Impact (Grouped Bar),Visualize impact of support systems on outcomes,Strong support increases wellbeing by 56%,Insights Tab
+7. Experience Level Analysis (Bar Chart),Compare performance across experience levels,Minimal variation across experience levels,Statistics Tab
+8. Correlation Matrix (Heatmap),Identify relationships between numeric variables,Productivity and wellbeing are weakly correlated,Correlations Tab
